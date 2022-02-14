@@ -11,3 +11,14 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=S7dT2tM7xPg/live
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/Seithigal.jpeg/revision/latest?cb=20191224114931" group-title="Tamil;News",Kalaignar News
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=G81WXBgrOnU/live
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/News18_Tamilnadu.jpeg/revision/latest?cb=20191220041122" group-title="Tamil;News",News 18 Tamilnadu
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=EZy0RAxG8OI/live
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Captain_News_Tamil.jpeg/revision/latest?cb=20191224082148" group-title="Tamil;News",Captain News
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=tpENEVgZ--4/live
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Raj_News_Tamil.jpeg/revision/latest?cb=20191226054121" group-title="Tamil;News",Raj News Tamil
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=XpYzBVs6Eco/live
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/News_J.jpeg/revision/latest?cb=20191226093118" group-title="Tamil;News",News J
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=c2E4TS95ESw/live
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/Jaya_Plus.jpeg/revision/latest?cb=20191224113458" group-title="Tamil;News",Jaya Plus
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=miWdofTnggo/live
+
