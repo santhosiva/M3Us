@@ -35,3 +35,7 @@ http://103.199.160.85/Content/captain/Live/Channel(Captain)/index.m3u8
 http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/News_Tamil_24x7.jpg/revision/latest?cb=20220122125225" group-title="Tamil;News",News Tamil 24x7
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=r-rD4X8Baio/live
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/Malai_Murasu.png/revision/latest?cb=20191229035538" group-title="Tamil;News",Maalai Murasu Tv
+https://m-c06-j2apps.s.llnwi.net/hls/7074.MalaiMurasuTV.in.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Sathiyam.jpeg/revision/latest?cb=20191225174941" group-title="Tamil;News",Sathiyam Tv
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=R_Usqz1TDI0/live
