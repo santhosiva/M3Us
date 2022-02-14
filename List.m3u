@@ -1,9 +1,13 @@
 #EXTM3U 
-#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Sun_News?file=Sun_News_2017.jpg" group-title="Tamil;Entertainment",Sun News
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Sun_News_2017.jpg/revision/latest?cb=20180318050614" group-title="Tamil;News",Sun News
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=kzwbYu1diCY/live
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Polimer_News.jpeg/revision/latest?cb=20191224101515" group-title="Tamil;Entertainment",Polimer News
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Polimer_News.jpeg/revision/latest?cb=20191224101515" group-title="Tamil;News",Polimer News
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=brE317oWHXo/live
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg/revision/latest/scale-to-width-down/250?cb=20180306135150" group-title="Tamil;Entertainment",Thanthi Tv
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/Thanthi_TV.png/revision/latest?cb=20171213114435" group-title="Tamil;News",Thanthi Tv
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=wc3Y6vI-poI/live
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg/revision/latest/scale-to-width-down/250?cb=20180306135150" group-title="Tamil;Entertainment",Puthiya Thalaimurai Tv
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/Puthiya_Thalaimurai.jpeg/revision/latest?cb=20191224103436" group-title="Tamil;News",Puthiya Thalaimurai Tv
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=e7WrmFDGbqk/live
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/News_7_Tamil.jpg/revision/latest?cb=20180603182012" group-title="Tamil;News",News 7
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=S7dT2tM7xPg/live
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/Seithigal.jpeg/revision/latest?cb=20191224114931" group-title="Tamil;News",Kalaignar News
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=G81WXBgrOnU/live
