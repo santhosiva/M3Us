@@ -1,0 +1,9 @@
+#EXTM3U 
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Sun_News?file=Sun_News_2017.jpg" group-title="Tamil;Entertainment",Sun News
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=kzwbYu1diCY/live
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Polimer_News.jpeg/revision/latest?cb=20191224101515" group-title="Tamil;Entertainment",Polimer News
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=brE317oWHXo/live
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg/revision/latest/scale-to-width-down/250?cb=20180306135150" group-title="Tamil;Entertainment",Thanthi Tv
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=wc3Y6vI-poI/live
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg/revision/latest/scale-to-width-down/250?cb=20180306135150" group-title="Tamil;Entertainment",Puthiya Thalaimurai Tv
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=e7WrmFDGbqk/live
