@@ -29,3 +29,9 @@ http://103.199.160.85/Content/kalaignarmurasu/Live/Channel(KalaignarMurasu)/inde
 http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/Puthuyugam_TV.gif/revision/latest?cb=20191224102421" group-title="Tamil;Tamil GEC",Pudhuyugam
 http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/Captain_TV_Tamil_logo.jpg/revision/latest?cb=20180603175630" group-title="Tamil;Tamil GEC",Captain Tv
+http://103.199.160.85/Content/captain/Live/Channel(Captain)/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/MK_Tunes.png/revision/latest?cb=20191225172859" group-title="Tamil;Tamil GEC",MK Tunes
+http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/News_Tamil_24x7.jpg/revision/latest?cb=20220122125225" group-title="Tamil;News",News Tamil 24x7
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=r-rD4X8Baio/live
