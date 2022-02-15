@@ -113,7 +113,7 @@ http://singamcloud.in:1935/rasinetwork/rasiclassic/playlist.m3u8
 http://198.144.149.82:8080/ANALAI_MOVIE/index.m3u8?token=GTR
 #EXTINF:-1 tvg-logo="https://content3.jdmagicbox.com/comp/thoothukudi/x7/9999px461.x461.171230025350.z5x7/catalogue/abinaya-tv-eral-thoothukudi-tv-dealers-glypt4le1n-250.jpg" group-title="Tamil;Local",Abinaya HD
 http://singamcloud.in:1935/purpletv/purpletv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9J5HJuI.png" group-title="Tamil Local;Entertainment",Vani TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9J5HJuI.png" group-title="Tamil;Local",Vani TV HD
 http://hdserver.7starcloud.com:1935/vanitv/livemedia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://content3.jdmagicbox.com/comp/salem/b6/0427px427.x427.181203155110.u2b6/catalogue/7-star-tv-five-road-salem-satellite-channels-4nj6mbgc1x.jpg?clr=114455" group-title="Tamil;Local",7 Star TV
 http://media.7starcloud.com:1935/live/7star/playlist.m3u8
