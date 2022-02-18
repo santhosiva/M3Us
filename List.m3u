@@ -137,6 +137,7 @@ http://hdserver.7starcloud.com:1935/sharvesh/live/playlist.m3u8
 http://198.144.149.82:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Tamil;Local",ANALAI MOVIE
 http://198.144.149.82:8080/ANALAI_MOVIE/index.m3u8?token=GTR
-#EXTINF:-1   tvg-logo="https://austamil.tv/wp-content/uploads/2020/04/aus-tamil-HD-New-e1586081963171.png" group-title="தமிழ்",Aus Tamil TV
+#EXTINF:-1   tvg-logo="https://austamil.tv/wp-content/uploads/2020/04/aus-tamil-HD-New-e1586081963171.png" group-title="Tamil;Local",Aus Tamil TV
 https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/playlist.m3u8
-
+#EXTINF:-1  group-title="Tamil;Local",SD Media
+http://7starcloud.com:1935/sd/sdmedia/playlist.m3u8
