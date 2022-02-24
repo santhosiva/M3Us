@@ -251,6 +251,14 @@ http://showflix.org:5890/Berlin/Berlin/59476
 http://103.153.39.36:8000/play/a018
 http://persik.by/stream/7504/377885/11072.m3u8
 
+http://78.83.191.18:8000/play/a078?m3u8
+http://46.181.193.122:81/udp/239.255.42.224:1234
+http://46.181.193.122:81/udp/239.255.42.223:1234
+http://46.181.193.122:81/udp/239.255.42.222:1234
+http://46.181.193.122:81/udp/239.255.42.221:1234
+http://46.181.193.122:81/udp/239.255.42.220:1234
+
+
 http://royal-cdn.eu:8080/get.php?username=RestreamTorbaXXX&password=mQFt54yf&type=m3u
 http://cdn.canais.cc:80//get.php?username=55115475&password=cliente@5475&type=m3u
 http://red.ipfox.org:8080/get.php?username=1234&password=12345678&type=m3u
