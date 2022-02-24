@@ -141,3 +141,79 @@ http://198.144.149.82:8080/ANALAI_MOVIE/index.m3u8?token=GTR
 https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/playlist.m3u8
 #EXTINF:-1  group-title="Tamil;Local",SD Media
 http://7starcloud.com:1935/sd/sdmedia/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Flixhub", Star Sports 1 HD [2]
+http://live.flixhub.net/hls/stersports1hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcSPzlc.png" group-title="Flixhub", Star Sports 2 HD [2]
+http://live.flixhub.net/hls/starsports2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Flixhub", Star Sports Select 1 HD [2]
+http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yDpb03C.png" group-title="Flixhub", Star Sports Select 2 HD [2]
+http://live.flixhub.net/hls/select2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GWLuSSS.png" group-title="Flixhub", Sony Six HD [2]
+http://live.flixhub.net/hls/sonysix.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q0ttZru.png" group-title="Flixhub", Sony Ten 1 HD [2]
+http://live.flixhub.net/hls/sonyten1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4Figrnr.png" group-title="Flixhub", Sony Ten 2 HD [2]
+http://live.flixhub.net/hls/sonyten2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7N5ypnj.png" group-title="Flixhub", Sony Ten 3 HD [2]
+http://live.flixhub.net/hls/sonyten3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d0GCm0e.png" group-title="Flixhub", BBC Earth HD [2]
+http://live.flixhub.net/hls/bbcearth.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QOye6lA.png" group-title="Flixhub", Discovery HD [2]
+http://live.flixhub.net/hls/discovery.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Flixhub", National Geographic HD [2]
+http://live.flixhub.net/hls/ngohd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dpf1I1U.png" group-title="Flixhub", Travel XP [2]
+http://live.flixhub.net/hls/travelxp.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="Flixhub", TLC HD [2]
+http://live.flixhub.net/hls/tlc.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9etOm0d.png" group-title="Flixhub", Animal Planet HD [2]
+http://live.flixhub.net/hls/animalplanent.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/542VNXV.png" group-title="Flixhub", Nick [2]
+http://live.flixhub.net/hls/nick.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2tjaJND.png" group-title="Flixhub", CN [2]
+http://live.flixhub.net/hls/cn.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VKSpv5k.png" group-title="Flixhub", POGO SD [2]
+http://live.flixhub.net/hls/pogo.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="Flixhub", Star Movies HD [2]
+http://live.flixhub.net/hls/starmovies.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K8YUMMt.png" group-title="Flixhub", Star World HD [2]
+http://live.flixhub.net/hls/star-worldhd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uV8cQ94.png" group-title="Flixhub", Sony Pix HD [2]
+http://live.flixhub.net/hls/sonypixhd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4cUraZk.png" group-title="Flixhub", Movies Now HD [2]
+http://live.flixhub.net/hls/movies-now.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iA4v1yN.png" group-title="Flixhub", MN+ HD [2]
+http://live.flixhub.net/hls/mn+.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/msSkZ5F.png" group-title="Flixhub", MNX HD [2]
+http://live.flixhub.net/hls/mnx-hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZSn4Daf.png" group-title="Flixhub", Bindaass [2]
+http://live.flixhub.net/hls/bindass.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Flixhub", Star Plus HD [2]
+http://live.flixhub.net/hls/starplus.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x2qwIpL.png" group-title="Flixhub", Sony HD [2]
+http://live.flixhub.net/hls/sonyen.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KRjdRnV.png" group-title="Flixhub", Colors HD [2]
+http://live.flixhub.net/hls/colore-tv-hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8u8TbPx.png" group-title="Flixhub", &Pictures HD [2]
+http://live.flixhub.net/hls/andpictures.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Flixhub", Zee Cinema HD [2]
+http://live.flixhub.net/hls/zeecinemahd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Flixhub", Star Gold HD [2]
+http://live.flixhub.net/hls/stargold.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G0fh0PU.png" group-title="Flixhub", Star Gold2 [2]
+http://live.flixhub.net/hls/stargold2hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9056B1t.png" group-title="Flixhub", Sony Max [2]
+http://live.flixhub.net/hls/sonymax.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9056B1t.png" group-title="Flixhub", Sony Max HD [2]
+http://live.flixhub.net/hls/sony-maxhd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KRjdRnV.png" group-title="Flixhub", Colors Cineplex HD [2]
+http://live.flixhub.net/hls/colorscineplex.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Flixhub", Zee TV HD [2]
+http://live.flixhub.net/hls/zeetv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nDLjaDL.png" group-title="Flixhub", Utv Action [2]
+http://live.flixhub.net/hls/utvaction.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wRc0YAb.png" group-title="Flixhub", Zoom [2]
+http://live.flixhub.net/hls/zoom.m3u8
