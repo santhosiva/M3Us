@@ -220,7 +220,8 @@ http://live.flixhub.net/hls/zoom.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4Jaw1m9.png" group-title="International", CNN Int
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PITp6xA.jpg" group-title="International",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/9xm_blue.svg/revision/latest?cb=20210508163726" group-title="Hindi", 9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
