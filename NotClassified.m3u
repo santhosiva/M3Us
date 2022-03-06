@@ -114,8 +114,11 @@ https://www.ast.tv/stream/1/ultra.m3u8
 #EXTINF:-1 group-title="ADULT",AST ULTRA 2
 https://www.ast.tv/stream/2/ultra.m3u8
 
-#EXTINF:-1 group-title="ADULT",FASHION TV SECRETS LQ
+#EXTINF:-1 group-title="ADULT",FTV Secrets to Midnight LQ
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+#EXTINF:-1 group-title="ADULT",FTV Secrets to Midnight FHD
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+
 #EXTINF:-1 group-title="ADULT",Jasmin Tv
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 #EXTINF:-1 group-title="ADULT",Miami Tv
@@ -127,99 +130,170 @@ https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
 #EXTINF:-1 group-title="ADULT",Rouge Tv
 http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 
-AdultIPTV.net Anal,http://cdn.adultiptv.net/anal.m3u8
-AdultIPTV.net Anal,http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/anal.m3u8
-AdultIPTV.net Asian,http://cdn.adultiptv.net/asian.m3u8
-AdultIPTV.net Big Ass,http://cdn.adultiptv.net/bigass.m3u8
-AdultIPTV.net Big Ass,http://live.redtraffic.xyz/bigass.m3u8
-AdultIPTV.net Big Dick,http://cdn.adultiptv.net/bigdick.m3u8
-AdultIPTV.net Big Dick,http://live.redtraffic.xyz/bigdick.m3u8
-AdultIPTV.net Big Tits,http://cdn.adultiptv.net/bigtits.m3u8
-AdultIPTV.net Big Tits,http://live.redtraffic.xyz/bigtits.m3u8
-AdultIPTV.net Blonde,http://cdn.adultiptv.net/blonde.m3u8
-AdultIPTV.net Blowjob,http://cdn.adultiptv.net/blowjob.m3u8
-AdultIPTV.net Blowjob,http://live.redtraffic.xyz/blowjob.m3u8
-AdultIPTV.net Brunette,http://cdn.adultiptv.net/brunette.m3u8
-AdultIPTV.net Compilation,http://cdn.adultiptv.net/compilation.m3u8
-AdultIPTV.net Cuckold,http://cdn.adultiptv.net/cuckold.m3u8
-AdultIPTV.net Cuckold,http://live.redtraffic.xyz/cuckold.m3u8
-AdultIPTV.net Fetish,http://cdn.adultiptv.net/fetish.m3u8
-AdultIPTV.net Fetish,http://live.redtraffic.xyz/fetish.m3u8
-AdultIPTV.net Gangbang,http://cdn.adultiptv.net/gangbang.m3u8
-AdultIPTV.net Gangbang,http://live.redtraffic.net/gangbang.m3u8
-AdultIPTV.net Gay,http://cdn.adultiptv.net/gay.m3u8
-AdultIPTV.net Hardcore,http://cdn.adultiptv.net/hardcore.m3u8
-AdultIPTV.net Hardcore,http://live.redtraffic.xyz/hardcore.m3u8
-AdultIPTV.net Interracial,http://cdn.adultiptv.net/interracial.m3u8
-AdultIPTV.net Interracial,http://live.redtraffic.xyz/interracial.m3u8
-AdultIPTV.net Latina,http://cdn.adultiptv.net/latina.m3u8
-AdultIPTV.net Latina,http://live.redtraffic.xyz/latina.m3u8
-AdultIPTV.net Lesbian,http://cdn.adultiptv.net/lesbian.m3u8
-AdultIPTV.net Lesbian,http://live.redtraffic.xyz/lesbian.m3u8
-AdultIPTV.net Live Cams,http://cdn.adultiptv.net/livecams.m3u8
-AdultIPTV.net MILF,http://cdn.adultiptv.net/milf.m3u8
-AdultIPTV.net MILF,http://live.redtraffic.xyz/milf.m3u8
-AdultIPTV.net Pornstar,http://cdn.adultiptv.net/pornstar.m3u8
-AdultIPTV.net Pornstar,http://live.redtraffic.xyz/pornstar.m3u8
-AdultIPTV.net POV,http://cdn.adultiptv.net/pov.m3u8
-AdultIPTV.net POV,http://live.redtraffic.xyz/pov.m3u8
-AdultIPTV.net Rough,http://cdn.adultiptv.net/rough.m3u8
-AdultIPTV.net Russian,http://cdn.adultiptv.net/russian.m3u8
-AdultIPTV.net Russian,http://live.redtraffic.xyz/russian.m3u8
-AdultIPTV.net Teen,http://cdn.adultiptv.net/teen.m3u8
-AdultIPTV.net Teen,http://live.redtraffic.xyz/teen.m3u8
-AdultIPTV.net Threesome,http://cdn.adultiptv.net/threesome.m3u8
-AdultIPTV.net Threesome,http://live.redtraffic.xyz/threesome.m3u8
-AdultIPTV.net Woman,http://live.redtraffic.net/woman.m3u8
+#EXTINF:-1 group-title="ADULT", IPTV Anal
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 group-title="ADULT", IPTV Anal 2
+http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/anal.m3u8
+#EXTINF:-1 group-title="ADULT", IPTV Asain
+http://cdn.adultiptv.net/asian.m3u8
+#EXTINF:-1 group-title="ADULT", IPTV Big ass
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 group-title="ADULT", IPTV Big Ass 2
+http://live.redtraffic.xyz/bigass.m3u8
+#EXTINF:-1 group-title="ADULT", IPTV Big Dick
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 group-title="ADULT", IPTV Big Dick 2
+http://live.redtraffic.xyz/bigdick.m3u8
+#EXTINF:-1 group-title="ADULT", IPTV Bif Tits
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 group-title="ADULT", IPTV Big Tits 2
+http://live.redtraffic.xyz/bigtits.m3u8
+#EXTINF:-1 group-title="ADULT", IPTV Blonde
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 group-title="ADULT", IPTV Blowjob
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 group-title="ADULT", IPTV Blowjob 2
+http://live.redtraffic.xyz/blowjob.m3u8
+#EXTINF:-1 group-title="ADULT", IPTV Bruntte
+http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 group-title="ADULT", IPTV Compilation
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 group-title="ADULT", IPTV Cuckold
+http://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 group-title="ADULT", IPTV Cuckold 2
+http://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF:-1 group-title="ADULT", IPTV Fetish
+http://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 group-title="ADULT", IPTV Fetish 2
+http://live.redtraffic.xyz/fetish.m3u8
+#EXTINF:-1 group-title="ADULT", IPTV Gangbang
+http://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 group-title="ADULT", IPTV Gangbang 2
+http://live.redtraffic.net/gangbang.m3u8
+#EXTINF:-1 group-title="ADULT", IPTV Gay
+http://cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 group-title="ADULT", IPTV Hardcore
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 group-title="ADULT", IPTV Hardcore 2
+http://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF:-1 group-title="ADULT", IPTV Interracial
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 group-title="ADULT", IPTV Interracial 2
+http://live.redtraffic.xyz/interracial.m3u8
+#EXTINF:-1 group-title="ADULT", IPTV Latina
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 group-title="ADULT", IPTV Latina 2
+http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:-1 group-title="ADULT", IPTV Lesbian
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 group-title="ADULT", IPTV Lesbian 2
+http://live.redtraffic.xyz/lesbian.m3u8
+#EXTINF:-1 group-title="ADULT", IPTV Livecams
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 group-title="ADULT", IPTV Milf
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 group-title="ADULT", IPTV Milf 2
+http://live.redtraffic.xyz/milf.m3u8
+#EXTINF:-1 group-title="ADULT", IPTV Pornstar
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 group-title="ADULT", IPTV Pornstar 2
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1 group-title="ADULT", IPTV POV
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 group-title="ADULT", IPTV POV 2
+http://live.redtraffic.xyz/pov.m3u8
+#EXTINF:-1 group-title="ADULT", IPTV Rough
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 group-title="ADULT", IPTV Russian
+http://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 group-title="ADULT", IPTV Russian 2
+,http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:-1 group-title="ADULT", IPTV Teen
+http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 group-title="ADULT", IPTV Teen 2
+http://live.redtraffic.xyz/teen.m3u8
+#EXTINF:-1 group-title="ADULT", IPTV Threesome
+,http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 group-title="ADULT", IPTV Threesome 2
+,http://live.redtraffic.xyz/threesome.m3u8
+#EXTINF:-1 group-title="ADULT", IPTV Woman
+http://live.redtraffic.net/woman.m3u8
 
+#EXTINF:-1 group-title="ADULT", Chinese XXX 1
 https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8?skipl=1 - 一本道1
+#EXTINF:-1 group-title="ADULT", Chinese XXX 2
 https://vip4.ddyunbo.com/20210209/dEzJjeSU/index.m3u8?skipl=1 - 一本道2
+#EXTINF:-1 group-title="ADULT", Chinese XXX 3
 https://vip4.ddyunbo.com/20210208/6LaKp6lZ/index.m3u8?skipl=1 - 一本道3
+#EXTINF:-1 group-title="ADULT", Chinese XXX 4
 https://vip4.ddyunbo.com/20210208/uWwFdRB7/index.m3u8?skipl=1 - 一本道4
+#EXTINF:-1 group-title="ADULT", Chinese XXX 5
 https://vip4.ddyunbo.com/20210208/EZRbwZn4/index.m3u8?skipl=1 - 一本道5
+#EXTINF:-1 group-title="ADULT", Chinese XXX 6
 https://vip4.ddyunbo.com/20210207/Lyhqjp3z/index.m3u8?skipl=1 - 一本道6
+#EXTINF:-1 group-title="ADULT", Chinese XXX 7
 https://vip4.ddyunbo.com/20210203/DYtc79vE/index.m3u8?skipl=1 - 一本道7
+#EXTINF:-1 group-title="ADULT", Chinese XXX 8
 https://vip4.ddyunbo.com/20210202/cy0urBhD/index.m3u8?skipl=1 - 一本道8
+#EXTINF:-1 group-title="ADULT", Chinese XXX 9
 https://vip4.ddyunbo.com/20210202/cOf9FXgF/index.m3u8?skipl=1 - 一本道9
+#EXTINF:-1 group-title="ADULT", Chinese XXX 10
 https://vip4.ddyunbo.com/20210202/jnSPf5L7/index.m3u8?skipl=1 - 一本道10
+#EXTINF:-1 group-title="ADULT", Chinese XXX 11
 https://vip4.ddyunbo.com/20210202/6wLYbWPq/index.m3u8?skipl=1 - 一本道11
 
-http://185.96.176.139:8080/superone/index.m3u8 - Super 1
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8 - FTV Secrets to Midnight FHD
+#EXTINF:-1 group-title="ADULT", Super One HD
+http://185.96.176.139:8080/superone/index.m3u8
 
-
+#EXTINF:-1 group-title="ADULT", Porn 1
 https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
-http://82.42.140.103:8001/1:0:1:1d4:26ac:13f:820000:0:0:0: XXXL
-http://82.42.140.103:8001/1:0:16:4221:2f44:13E:820000:0:0:0: Blue Hustler
-http://82.42.140.103:8001/1:0:1:1CBB:1CE8:71:820000:0:0:0: Vivid
-http://82.42.140.103:8001/1:0:1:4224:3DB8:13E:820000:0:0:0: Redlight
-http://82.42.140.103:8001/1:0:1:4205:2F44:13E:820000:0:0:0: Dorcel
-http://82.42.140.103:8001/1:0:19:4223:2f44:13E:820000:0:0:0: Hustler HD
-http://82.42.140.103:8001/1:0:19:4220:2f44:13E:820000:0:0:0: Hustler HD
-http://82.42.140.103:8001/1:0:1:4267:3db8:13E:820000:0:0:0: Vivid Red
 
-http://ott3.alwaysdata.net/live/fuck.php?id=1
-http://ott3.alwaysdata.net/live/fuck.php?id=2
-http://ott3.alwaysdata.net/live/fuck.php?id=3
-http://ott3.alwaysdata.net/live/fuck.php?id=4
-http://ott3.alwaysdata.net/live/fuck.php?id=5
-http://ott3.alwaysdata.net/live/fuck.php?id=6
-http://ott3.alwaysdata.net/live/fuck.php?id=15
+#http://82.42.140.103:8001/1:0:1:1d4:26ac:13f:820000:0:0:0: XXXL
+#http://82.42.140.103:8001/1:0:16:4221:2f44:13E:820000:0:0:0: Blue Hustler
+#http://82.42.140.103:8001/1:0:1:1CBB:1CE8:71:820000:0:0:0: Vivid
+#http://82.42.140.103:8001/1:0:1:4224:3DB8:13E:820000:0:0:0: Redlight
+#http://82.42.140.103:8001/1:0:1:4205:2F44:13E:820000:0:0:0: Dorcel
+#http://82.42.140.103:8001/1:0:19:4223:2f44:13E:820000:0:0:0: Hustler HD
+#http://82.42.140.103:8001/1:0:19:4220:2f44:13E:820000:0:0:0: Hustler HD
+#http://82.42.140.103:8001/1:0:1:4267:3db8:13E:820000:0:0:0: Vivid Red
 
+#http://ott3.alwaysdata.net/live/fuck.php?id=1
+#http://ott3.alwaysdata.net/live/fuck.php?id=2
+#http://ott3.alwaysdata.net/live/fuck.php?id=3
+#http://ott3.alwaysdata.net/live/fuck.php?id=4
+#http://ott3.alwaysdata.net/live/fuck.php?id=5
+#http://ott3.alwaysdata.net/live/fuck.php?id=6
+#http://ott3.alwaysdata.net/live/fuck.php?id=15
+
+#EXTINF:-1 group-title="ADULT", OTT AVTV 1
 http://ott3.alwaysdata.net/live/av-tv.php?ch=1
+#EXTINF:-1 group-title="ADULT", OTT AVTV 2
 http://ott3.alwaysdata.net/live/av-tv.php?ch=2
+#EXTINF:-1 group-title="ADULT", OTT AVTV 3
 http://ott3.alwaysdata.net/live/av-tv.php?ch=3
+#EXTINF:-1 group-title="ADULT", OTT AVTV 4
 http://ott3.alwaysdata.net/live/av-tv.php?ch=4
+#EXTINF:-1 group-title="ADULT", OTT AVTV 5
 http://ott3.alwaysdata.net/live/av-tv.php?ch=5
+#EXTINF:-1 group-title="ADULT", OTT AVTV 6
 http://ott3.alwaysdata.net/live/av-tv.php?ch=6
+#EXTINF:-1 group-title="ADULT", OTT AVTV 7
 http://ott3.alwaysdata.net/live/av-tv.php?ch=7
+#EXTINF:-1 group-title="ADULT", OTT AVTV 8
 http://ott3.alwaysdata.net/live/av-tv.php?ch=8
+#EXTINF:-1 group-title="ADULT", OTT AVTV 9
 http://ott3.alwaysdata.net/live/av-tv.php?ch=9
+#EXTINF:-1 group-title="ADULT", OTT AVTV 10
 http://ott3.alwaysdata.net/live/av-tv.php?ch=10
+#EXTINF:-1 group-title="ADULT", OTT AVTV 11
 http://ott3.alwaysdata.net/live/av-tv.php?ch=11
+#EXTINF:-1 group-title="ADULT", OTT AVTV 12
 http://ott3.alwaysdata.net/live/av-tv.php?ch=12
+#EXTINF:-1 group-title="ADULT", OTT AVTV 13
 http://ott3.alwaysdata.net/live/av-tv.php?ch=13
+#EXTINF:-1 group-title="ADULT", OTT AVTV 14
 http://ott3.alwaysdata.net/live/av-tv.php?ch=14
+#EXTINF:-1 group-title="ADULT", OTT AVTV 15
 http://ott3.alwaysdata.net/live/av-tv.php?ch=15
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
