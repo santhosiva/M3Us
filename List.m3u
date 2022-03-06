@@ -2,8 +2,8 @@
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Sun_News_2017.jpg/revision/latest?cb=20180318050614" group-title="Tamil;News",Sun News
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=kzwbYu1diCY/live
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Polimer_News.jpeg/revision/latest?cb=20191224101515" group-title="Tamil;News",Polimer News
-#http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=brE317oWHXo/live
-https://versewsa.pc.cdn.bitgravity.com/versewsa/live/polimernews.smil/chunklist_b1800000.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=brE317oWHXo/live
+#https://versewsa.pc.cdn.bitgravity.com/versewsa/live/polimernews.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/Thanthi_TV.png/revision/latest?cb=20171213114435" group-title="Tamil;News",Thanthi Tv
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=wc3Y6vI-poI/live
 https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/chunks.m3u8
@@ -11,22 +11,22 @@ https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/chunks.m3
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=e7WrmFDGbqk/live
 http://versewsa.pc.cdn.bitgravity.com/versewsa/live/puthiyathalaimurai.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/News_7_Tamil.jpg/revision/latest?cb=20180603182012" group-title="Tamil;News",News 7
-#http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=S7dT2tM7xPg/live
-https://versewsa.pc.cdn.bitgravity.com/versewsa/live/tamilnews7.smil/chunklist_b1000000.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=S7dT2tM7xPg/live
+#https://versewsa.pc.cdn.bitgravity.com/versewsa/live/tamilnews7.smil/chunklist_b1000000.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/Seithigal.jpeg/revision/latest?cb=20191224114931" group-title="Tamil;News",Kalaignar News
-#http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=G81WXBgrOnU/live
-https://versewsa.pc.cdn.bitgravity.com/versewsa/live//kalaignar_tv.smil/chunklist_b500000.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=G81WXBgrOnU/live
+#https://versewsa.pc.cdn.bitgravity.com/versewsa/live//kalaignar_tv.smil/chunklist_b500000.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/News18_Tamilnadu.jpeg/revision/latest?cb=20191220041122" group-title="Tamil;News",News 18 Tamilnadu
-#http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=EZy0RAxG8OI/live
-https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=EZy0RAxG8OI/live
+#https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Captain_News_Tamil.jpeg/revision/latest?cb=20191224082148" group-title="Tamil;News",Captain News
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=tpENEVgZ--4/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=aHjAkBdc354/live
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Raj_News_Tamil.jpeg/revision/latest?cb=20191226054121" group-title="Tamil;News",Raj News Tamil
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=XpYzBVs6Eco/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=CTjrSJqEQdE/live
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/News_J.jpeg/revision/latest?cb=20191226093118" group-title="Tamil;News",News J
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=c2E4TS95ESw/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=Ln-Rj5Zqhlc/live
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/Jaya_Plus.jpeg/revision/latest?cb=20191224113458" group-title="Tamil;News",Jaya Plus
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=miWdofTnggo/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=S4cAEkttx5I/live
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Mk_six.png/revision/latest?cb=20210331185019" group-title="Tamil;Tamil GEC",MK SIX
 http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/Murasu.png/revision/latest?cb=20191224120542" group-title="Tamil;Tamil GEC",Kalaignar Murasu
@@ -117,8 +117,6 @@ http://singamcloud.in:1935/purpletv/purpletv/playlist.m3u8
 http://hdserver.7starcloud.com:1935/vanitv/livemedia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://content3.jdmagicbox.com/comp/salem/b6/0427px427.x427.181203155110.u2b6/catalogue/7-star-tv-five-road-salem-satellite-channels-4nj6mbgc1x.jpg?clr=114455" group-title="Tamil;Local",7 Star TV
 http://media.7starcloud.com:1935/live/7star/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/VX7Zdy78EnY5411KHSUhmgkOONWipnMJK6qMu4Ku82mICSOxGHtkZkccs0eRa7PqsO0=s180-rw" group-title="Tamil;Local", JAWAHAR TV
-http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N0qv7b92/Screenshot-2021-04-28-14-38-57-046-org-videolan-vlc-1619601997394.png" group-title="Tamil;Local",Isai Saral
 http://bmlive.net:8000/srmusix/srmusix/bms.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Tamil;Local",3 TAMIL
@@ -133,8 +131,6 @@ http://7starcloud.com:1935/pragalya/pragalyatv/playlist.m3u8
 http://hdserver.7starcloud.com:1935/sharvesh/live/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Tamil;Local",MON TAMIL
 http://198.144.149.82:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Tamil;Local",ANALAI MOVIE
-http://198.144.149.82:8080/ANALAI_MOVIE/index.m3u8?token=GTR
 #EXTINF:-1   tvg-logo="https://austamil.tv/wp-content/uploads/2020/04/aus-tamil-HD-New-e1586081963171.png" group-title="Tamil;Local",Aus Tamil TV
 https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/playlist.m3u8
 #EXTINF:-1  group-title="Tamil;Local",SD Media
