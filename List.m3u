@@ -221,6 +221,8 @@ http://189.91.128.146:4444/udp/227.10.20.133:1234
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4Jaw1m9.png" group-title="International;News", CNN Int
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+#https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PITp6xA.jpg" group-title="International;News",Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/80/BBC_World_News_2022.svg/revision/latest?cb=20211121114323" group-title="International",BBC World News
