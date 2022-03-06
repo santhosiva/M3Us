@@ -1,74 +1,118 @@
-http://213.81.133.133:8080/extasy4k/index.m3u8 - Extacy4K
-http://212.102.48.142:8085/udp/236.3.1.17:1234 - Brazzers
-http://37.19.203.217:8085/udp/239.100.10.190:5000 - Brazzers Low
-http://212.102.48.142:8085/udp/236.3.1.15:1234 - Vivid
-http://212.102.48.142:8085/udp/236.3.1.14:1234 - Hustler
-http://212.102.48.142:8085/udp/236.3.1.13:1234 - Red Light
-http://212.102.48.142:8085/udp/236.3.1.12:1234 - Private
-http://212.102.48.142:8085/udp/236.3.1.11:1234 - Dorcel
-http://212.102.48.142:8085/udp/236.3.1.16:1234 - XXL
-http://37.19.203.217:8085/udp/239.10.10.69:5000 - Babes TV
-http://37.19.203.217:8085/udp/239.10.10.164:5000 - EroXXX
-http://37.19.203.217:8085/udp/239.10.10.69:5000 - Babes TV HD 
-http://37.19.203.217:8085/udp/239.10.10.155:5000 - Dorcel TV HD 
-http://37.19.203.217:8085/udp/239.10.10.164:5000 - EroXXX HD 
-http://78.83.191.18:8000/play/a078 - Hustler TV 
+#EXTM3U 
+#EXTINF:-1 group-title="ADULT",Extacy4K
+http://213.81.133.133:8080/extasy4k/index.m3u8
+#EXTINF:-1 group-title="ADULT",Brazzers UDP
+http://212.102.48.142:8085/udp/236.3.1.17:1234
+#EXTINF:-1 group-title="ADULT",BRAZZERS UDP
+http://37.19.203.217:8085/udp/239.100.10.190:5000
+#EXTINF:-1 group-title="ADULT",Vivid
+http://212.102.48.142:8085/udp/236.3.1.15:1234
+#EXTINF:-1 group-title="ADULT",Hustler
+http://212.102.48.142:8085/udp/236.3.1.14:1234
+#EXTINF:-1 group-title="ADULT",RedLight
+http://212.102.48.142:8085/udp/236.3.1.13:1234
+#EXTINF:-1 group-title="ADULT",Private
+http://212.102.48.142:8085/udp/236.3.1.12:1234
+#EXTINF:-1 group-title="ADULT",Dorcel
+http://212.102.48.142:8085/udp/236.3.1.11:1234
+#EXTINF:-1 group-title="ADULT",XXL
+http://212.102.48.142:8085/udp/236.3.1.16:1234
+#EXTINF:-1 group-title="ADULT",Babes TV
+http://37.19.203.217:8085/udp/239.10.10.69:5000
+#EXTINF:-1 group-title="ADULT",EROXXX
+http://37.19.203.217:8085/udp/239.10.10.164:5000
+#EXTINF:-1 group-title="ADULT",BABES TV HD
+http://37.19.203.217:8085/udp/239.10.10.69:5000
+#EXTINF:-1 group-title="ADULT",DORCEL TV HD
+http://37.19.203.217:8085/udp/239.10.10.155:5000
+#EXTINF:-1 group-title="ADULT",EROXXX HD
+http://37.19.203.217:8085/udp/239.10.10.164:5000
+#EXTINF:-1 group-title="ADULT",HUSTLER HD
+http://78.83.191.18:8000/play/a078
 
+#EXTINF:-1 group-title="ADULT",OTTXXX
 http://ott3.alwaysdata.net/live/lv.php?id=1
+#EXTINF:-1 group-title="ADULT",OTTXXX
 http://ott3.alwaysdata.net/live/lv.php?id=2
+#EXTINF:-1 group-title="ADULT",OTTXXX
 http://ott3.alwaysdata.net/live/lv.php?id=3
+#EXTINF:-1 group-title="ADULT",OTTXXX
 http://ott3.alwaysdata.net/live/lv.php?id=4
+#EXTINF:-1 group-title="ADULT",OTTXXX
 http://ott3.alwaysdata.net/live/lv.php?id=5
+#EXTINF:-1 group-title="ADULT",OTTXXX
 http://ott3.alwaysdata.net/live/lv.php?id=6
+#EXTINF:-1 group-title="ADULT",OTTXXX
 http://ott3.alwaysdata.net/live/lv.php?id=7
+#EXTINF:-1 group-title="ADULT",OTTXXX
 http://ott3.alwaysdata.net/live/lv.php?id=8
+#EXTINF:-1 group-title="ADULT",OTTXXX
 http://ott3.alwaysdata.net/live/lv.php?id=9
+#EXTINF:-1 group-title="ADULT",OTTXXX
 http://ott3.alwaysdata.net/live/lv.php?id=10
+#EXTINF:-1 group-title="ADULT",OTTXXX
 http://ott3.alwaysdata.net/live/lv.php?id=11
+#EXTINF:-1 group-title="ADULT",OTTXXX
 http://ott3.alwaysdata.net/live/lv.php?id=12
+#EXTINF:-1 group-title="ADULT",OTTXXX
 http://ott3.alwaysdata.net/live/lv.php?id=13
+#EXTINF:-1 group-title="ADULT",OTTXXX
 http://ott3.alwaysdata.net/live/lv.php?id=14
+#EXTINF:-1 group-title="ADULT",OTTXXX
 http://ott3.alwaysdata.net/live/lv.php?id=15
+#EXTINF:-1 group-title="ADULT",OTTXXX
 http://ott3.alwaysdata.net/live/lv.php?id=16
+#EXTINF:-1 group-title="ADULT",OTTXXX
 http://ott3.alwaysdata.net/live/lv.php?id=17
+#EXTINF:-1 group-title="ADULT",OTTXXX
 http://ott3.alwaysdata.net/live/lv.php?id=18
+#EXTINF:-1 group-title="ADULT",OTTXXX
 http://ott3.alwaysdata.net/live/lv.php?id=19
+#EXTINF:-1 group-title="ADULT",OTTXXX
 http://ott3.alwaysdata.net/live/lv.php?id=20
-http://ott3.alwaysdata.net/live/lv.php?id=21
-http://ott3.alwaysdata.net/live/lv.php?id=22
-http://ott3.alwaysdata.net/live/lv.php?id=23
-http://ott3.alwaysdata.net/live/lv.php?id=24
-http://ott3.alwaysdata.net/live/lv.php?id=25
-http://ott3.alwaysdata.net/live/lv.php?id=26
-http://ott3.alwaysdata.net/live/lv.php?id=27
-http://ott3.alwaysdata.net/live/lv.php?id=28
-http://ott3.alwaysdata.net/live/lv.php?id=29
-http://ott3.alwaysdata.net/live/lv.php?id=30
-http://ott3.alwaysdata.net/live/lv.php?id=31
-http://ott3.alwaysdata.net/live/lv.php?id=32
-http://ott3.alwaysdata.net/live/lv.php?id=33
-http://ott3.alwaysdata.net/live/lv.php?id=34
-http://ott3.alwaysdata.net/live/lv.php?id=35
-http://ott3.alwaysdata.net/live/lv.php?id=36
-http://ott3.alwaysdata.net/live/lv.php?id=37
-http://ott3.alwaysdata.net/live/lv.php?id=38
-http://ott3.alwaysdata.net/live/lv.php?id=39
-http://ott3.alwaysdata.net/live/lv.php?id=40
-http://ott3.alwaysdata.net/live/lv.php?id=41
-http://ott3.alwaysdata.net/live/lv.php?id=42
-http://ott3.alwaysdata.net/live/lv.php?id=43
-http://ott3.alwaysdata.net/live/lv.php?id=44
-http://ott3.alwaysdata.net/live/lv.php?id=45
-http://ott3.alwaysdata.net/live/lv.php?id=46
 
-http://173.0.54.210:30080/Entry/av06 - AV JAPAN1
-http://173.0.54.210:30080/Entry/av03 - AV JAPAN2
 
+#http://ott3.alwaysdata.net/live/lv.php?id=21
+#http://ott3.alwaysdata.net/live/lv.php?id=22
+#http://ott3.alwaysdata.net/live/lv.php?id=23
+#http://ott3.alwaysdata.net/live/lv.php?id=24
+#http://ott3.alwaysdata.net/live/lv.php?id=25
+#http://ott3.alwaysdata.net/live/lv.php?id=26
+#http://ott3.alwaysdata.net/live/lv.php?id=27
+#http://ott3.alwaysdata.net/live/lv.php?id=28
+#http://ott3.alwaysdata.net/live/lv.php?id=29
+#http://ott3.alwaysdata.net/live/lv.php?id=30
+#http://ott3.alwaysdata.net/live/lv.php?id=31
+#http://ott3.alwaysdata.net/live/lv.php?id=32
+#http://ott3.alwaysdata.net/live/lv.php?id=33
+#http://ott3.alwaysdata.net/live/lv.php?id=34
+#http://ott3.alwaysdata.net/live/lv.php?id=35
+#http://ott3.alwaysdata.net/live/lv.php?id=36
+#http://ott3.alwaysdata.net/live/lv.php?id=37
+#http://ott3.alwaysdata.net/live/lv.php?id=38
+#http://ott3.alwaysdata.net/live/lv.php?id=39
+#http://ott3.alwaysdata.net/live/lv.php?id=40
+#http://ott3.alwaysdata.net/live/lv.php?id=41
+#http://ott3.alwaysdata.net/live/lv.php?id=42
+#http://ott3.alwaysdata.net/live/lv.php?id=43
+#http://ott3.alwaysdata.net/live/lv.php?id=44
+#http://ott3.alwaysdata.net/live/lv.php?id=45
+#http://ott3.alwaysdata.net/live/lv.php?id=46
+
+#http://173.0.54.210:30080/Entry/av06 - AV JAPAN1
+#http://173.0.54.210:30080/Entry/av03 - AV JAPAN2
+
+#EXTINF:-1 group-title="ADULT",EXTACY HD
 http://213.151.233.20:8000/dna-6233-tv-pc.m3u8 - Extasy / LeoTV 
-http://www.ast.tv/stream/1/master.m3u8 AST1 HD
-http://www.ast.tv/stream/2/master.m3u8 AST2 HD
-https://www.ast.tv/stream/1/ultra.m3u8 AST1 UHD
-https://www.ast.tv/stream/2/ultra.m3u8 AST2 UHD
+
+#EXTINF:-1 group-title="ADULT",AST MASTER 1
+http://www.ast.tv/stream/1/master.m3u8
+#EXTINF:-1 group-title="ADULT",AST MASTER 2
+http://www.ast.tv/stream/2/master.m3u8
+#EXTINF:-1 group-title="ADULT",AST ULTRA 1
+https://www.ast.tv/stream/1/ultra.m3u8
+#EXTINF:-1 group-title="ADULT",AST ULTRA 2
+https://www.ast.tv/stream/2/ultra.m3u8
 
 FashionTV Midnite Secrets (1080p),https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 Jasmin TV (720p),http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
