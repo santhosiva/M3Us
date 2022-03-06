@@ -114,12 +114,18 @@ https://www.ast.tv/stream/1/ultra.m3u8
 #EXTINF:-1 group-title="ADULT",AST ULTRA 2
 https://www.ast.tv/stream/2/ultra.m3u8
 
-FashionTV Midnite Secrets (1080p),https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
-Jasmin TV (720p),http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-Miami TV (720p),https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvWEB/playlist.m3u8
-Miami TV Jenny Live (720p),https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
-Miami TV Jenny 2 (720p),https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
-Rouge TV (720p),http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
+#EXTINF:-1 group-title="ADULT",FASHION TV SECRETS LQ
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+#EXTINF:-1 group-title="ADULT",Jasmin Tv
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 group-title="ADULT",Miami Tv
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvWEB/playlist.m3u8
+#EXTINF:-1 group-title="ADULT",Miami Jenny 1
+https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+#EXTINF:-1 group-title="ADULT",Miami Jenny 2
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
+#EXTINF:-1 group-title="ADULT",Rouge Tv
+http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 
 AdultIPTV.net Anal,http://cdn.adultiptv.net/anal.m3u8
 AdultIPTV.net Anal,http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/anal.m3u8
