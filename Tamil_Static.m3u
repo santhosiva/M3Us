@@ -144,7 +144,17 @@ http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8?token=GTR
 http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8?token=GTR
 #EXTINF:-1 group-title="Tamil;Local" tvg-logo="http://7starcloud.in/gta.jpg", GTA Tamil
 http://142.44.213.115:8888/gta_tamil/index.m3u8?token=GTR
+#EXTINF:-1,DAN COMEDY(INTL)
+https://askmedia.livebox.co.in/DanComodyhls/9.m3u8
+#EXTINF:-1,DAN TAMIL(INTL)
+https://askmedia.livebox.co.in/DANTAMILOLIhls/1.m3u8
+#EXTINF:-1,DAN MUSIC(INTL)
+https://askmedia.livebox.co.in/DanMusichls/2.m3u8
+#EXTINF:0,MN TV HD(Local)
+http://mntv.livebox.co.in/mntvhls/mntv.m3u8
 
+#EXTINF:0,MN MUSIC HD(Local)
+http://mntv.livebox.co.in/musichls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="India;Sports", Star Sports 1 HD [2]
 http://live.flixhub.net/hls/stersports1hd.m3u8
