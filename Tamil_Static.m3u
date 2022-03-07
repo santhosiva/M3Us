@@ -135,6 +135,12 @@ http://198.144.149.82:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
 https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/playlist.m3u8
 #EXTINF:-1  group-title="Tamil;Local",SD Media
 http://7starcloud.com:1935/sd/sdmedia/playlist.m3u8
+#EXTINF:-1, group-title="Tamil;Local" tvg-logo="http://www.tamilvision.tv/Images/logo.png",TAMIL VISION TV
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8?token=GTR
+#EXTINF:-1 group-title="Tamil;Local" tvg-logo="http://haritv.com/images/logo.png", Hari TV
+http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8?token=GTR
+#EXTINF:-1 group-title="Tamil;Local" tvg-logo="http://7starcloud.in/gta.jpg", GTA Tamil
+http://142.44.213.115:8888/gta_tamil/index.m3u8?token=GTR
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="India;Sports", Star Sports 1 HD [2]
