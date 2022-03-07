@@ -150,10 +150,10 @@ https://askmedia.livebox.co.in/DanComodyhls/9.m3u8
 https://askmedia.livebox.co.in/DANTAMILOLIhls/1.m3u8
 #EXTINF:-1,DAN MUSIC(INTL)
 https://askmedia.livebox.co.in/DanMusichls/2.m3u8
-#EXTINF:0,MN TV HD(Local)
+#EXTINF:-1,MN TV HD(Local)
 http://mntv.livebox.co.in/mntvhls/mntv.m3u8
 
-#EXTINF:0,MN MUSIC HD(Local)
+#EXTINF:-1,MN MUSIC HD(Local)
 http://mntv.livebox.co.in/musichls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="India;Sports", Star Sports 1 HD [2]
@@ -232,6 +232,8 @@ http://live.flixhub.net/hls/utvaction.m3u8
 http://live.flixhub.net/hls/zoom.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/HBO_1980_Gray.svg/revision/latest?cb=20161226123346" group-title="India;Movies", HBO
 http://189.91.128.146:4444/udp/227.10.20.133:1234
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/HBO_1980_Gray.svg/revision/latest?cb=20161226123346" group-title="India;Movies", HBO LQ
+http://ip2121.com:8081/web1/hbo/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4Jaw1m9.png" group-title="International;News", CNN Int
