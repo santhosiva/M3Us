@@ -234,6 +234,8 @@ http://live.flixhub.net/hls/zoom.m3u8
 http://189.91.128.146:4444/udp/227.10.20.133:1234
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/HBO_1980_Gray.svg/revision/latest?cb=20161226123346" group-title="India;Movies", HBO LQ
 http://ip2121.com:8081/web1/hbo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/HBO_1980_Gray.svg/revision/latest?cb=20161226123346" group-title="India;Movies", HBO HD
+http://50.7.218.42:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403#http://50.7.218.42:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4Jaw1m9.png" group-title="International;News", CNN Int
