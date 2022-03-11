@@ -757,7 +757,9 @@ http://78.83.191.18:8000/play/a07a
 #EXTINF:-1 group-title="B2",231_DW
 #EXTVLCOPT:network-caching=1000
 http://78.83.191.18:8000/play/a07b
-
+#EXTINF:-1 group-title="B2",Fashion TV - Brazil
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/1431/123456/61.ts
 #EXTINF:-1 group-title="ADULT",EROX
 #EXTVLCOPT:network-caching=1000
 http://94.229.250.73:8008/play/a002
