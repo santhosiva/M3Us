@@ -207,17 +207,21 @@ http://cdn.adultiptv.net/rough.m3u8
 #EXTINF:-1 group-title="ADULT", IPTV Russian
 http://cdn.adultiptv.net/russian.m3u8
 #EXTINF:-1 group-title="ADULT", IPTV Russian 2
-,http://live.redtraffic.xyz/russian.m3u8
+http://live.redtraffic.xyz/russian.m3u8
 #EXTINF:-1 group-title="ADULT", IPTV Teen
 http://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1 group-title="ADULT", IPTV Teen 2
 http://live.redtraffic.xyz/teen.m3u8
 #EXTINF:-1 group-title="ADULT", IPTV Threesome
-,http://cdn.adultiptv.net/threesome.m3u8
+http://cdn.adultiptv.net/threesome.m3u8
 #EXTINF:-1 group-title="ADULT", IPTV Threesome 2
-,http://live.redtraffic.xyz/threesome.m3u8
-#EXTINF:-1 group-title="ADULT", IPTV Woman
+http://live.redtraffic.xyz/threesome.m3u8
+
 http://live.redtraffic.net/woman.m3u8
+
+
+#EXTINF:-1 group-title="ADULT", Playboy
+http://200.146.229.129:8001/play/a016
 
 #EXTINF:-1 group-title="ADULT", Chinese XXX 1
 https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8?skipl=1 - 一本道1
