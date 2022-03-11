@@ -248,7 +248,8 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_30
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PITp6xA.jpg" group-title="News",Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/80/BBC_World_News_2022.svg/revision/latest?cb=20211121114323" group-title="News",BBC World News
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+http://78.83.191.18:8000/play/a07a
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/India_Today_TV.jpg/revision/latest?cb=20171130151520" group-title="News",India Today
 https://feeds.intoday.in/hltapps/api/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fa/CNBC-TV18_Prime_HD_logo.jpg/revision/latest?cb=20180603170113" group-title="News",CNBC TV18
@@ -466,3 +467,293 @@ http://103.153.39.36:8000/play/a01z
 #EXTINF:-1 group-title="India",nick HD+- Rs 10
 #EXTVLCOPT:network-caching=1000
 http://103.153.39.36:8000/play/a01c
+
+
+#EXTINF:-1 group-title="B2",101_BNT 1
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a046
+#EXTINF:-1 group-title="B2",102_bTV
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a03w
+#EXTINF:-1 group-title="B2",103_NOVA
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a03l
+#EXTINF:-1 group-title="B2",104_BNT 2
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a049
+#EXTINF:-1 group-title="B2",105_BNT 3
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a03x
+#EXTINF:-1 group-title="B2",106_BNT 4
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a04u
+#EXTINF:-1 group-title="B2",107_bTV Action
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a04n
+#EXTINF:-1 group-title="B2",108_bTV Cinema
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a04i
+#EXTINF:-1 group-title="B2",109_bTV Comedy
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a04k
+#EXTINF:-1 group-title="B2",110_bTV Lady
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a05i
+#EXTINF:-1 group-title="B2",111_TV Evropa
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a063
+#EXTINF:-1 group-title="B2",112_TV Plus
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a03y
+#EXTINF:-1 group-title="B2",113_7/8 TV
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a05p
+#EXTINF:-1 group-title="B2",114_Evrokom
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a053
+#EXTINF:-1 group-title="B2",116_Diema
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a045
+#EXTINF:-1 group-title="B2",117_KinoNova
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a041
+#EXTINF:-1 group-title="B2",118_Diema Family
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a047
+#EXTINF:-1 group-title="B2",119_AXN
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a04d
+#EXTINF:-1 group-title="B2",120_AXN White
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a065
+#EXTINF:-1 group-title="B2",121_AXN Black
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a066
+#EXTINF:-1 group-title="B2",122_FOX
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a05c
+#EXTINF:-1 group-title="B2",123_FOX Life
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a04f
+#EXTINF:-1 group-title="B2",124_FOX Crime
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a04h
+#EXTINF:-1 group-title="B2",125_FILMBOX
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a06i
+#EXTINF:-1 group-title="B2",126_FilmBox Plus
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a04r
+#EXTINF:-1 group-title="B2",127_Movie Star
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a04y
+#EXTINF:-1 group-title="B2",128_TV1000
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a04w
+#EXTINF:-1 group-title="B2",131_Nova News
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a05e
+#EXTINF:-1 group-title="B2",132_AMC
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a06f
+#EXTINF:-1 group-title="B2",133_Bulgaria 24
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a06b
+#EXTINF:-1 group-title="B2",134_TLC
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a04m
+#EXTINF:-1 group-title="B2",135_National Geographic
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a048
+#EXTINF:-1 group-title="B2",136_Animal Planet
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a05r
+#EXTINF:-1 group-title="B2",137_Hobby TV
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a042
+#EXTINF:-1 group-title="B2",138_Hobby Lov
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a05q
+#EXTINF:-1 group-title="B2",139_Hobby TV HD
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a06k
+#EXTINF:-1 group-title="B2",140_Viasat Explorer
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a058
+#EXTINF:-1 group-title="B2",141_Viasat History
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a03r
+#EXTINF:-1 group-title="B2",142_Viasat Nature
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a03s
+#EXTINF:-1 group-title="B2",143_History Channel
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a05u
+#EXTINF:-1 group-title="B2",144_Travel Channel
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a04x
+#EXTINF:-1 group-title="B2",146_Docubox
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a05n
+#EXTINF:-1 group-title="B2",147_Fine Living
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a04t
+#EXTINF:-1 group-title="B2",148_Bulgaria on Air
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a05x
+#EXTINF:-1 group-title="B2",149_NG Wild HD
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a06p
+#EXTINF:-1 group-title="B2",150_H2
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a06j
+#EXTINF:-1 group-title="B2",151_Planeta TV
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a03t
+#EXTINF:-1 group-title="B2",152_Planeta HD
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a03m
+#EXTINF:-1 group-title="B2",153_Balkanika
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a05h
+#EXTINF:-1 group-title="B2",154_FEN TV
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a05f
+#EXTINF:-1 group-title="B2",155_National Geographic HD
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a06l
+#EXTINF:-1 group-title="B2",156_Discovery Channel
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a044
+#EXTINF:-1 group-title="B2",161_City TV
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a06c
+#EXTINF:-1 group-title="B2",162_MagicTV
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a03u
+#EXTINF:-1 group-title="B2",163_The Voice
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a043
+#EXTINF:-1 group-title="B2",164_VH 1
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a03n
+#EXTINF:-1 group-title="B2",165_MTV 80s
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a06q
+#EXTINF:-1 group-title="B2",166_Comedy+
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a06w
+#EXTINF:-1 group-title="B2",167_BNT 3 HD
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a072
+#EXTINF:-1 group-title="B2",168_MAX Sport 1 HD
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a073
+#EXTINF:-1 group-title="B2",169_MAX Sport 2 HD
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a074
+#EXTINF:-1 group-title="B2",170_MAX Sport 3 HD
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a075
+#EXTINF:-1 group-title="B2",175_MAX Sport 4 HD
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a07f
+#EXTINF:-1 group-title="B2",176_F Plus
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a03z
+#EXTINF:-1 group-title="B2",177_Eurosport
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a05y
+#EXTINF:-1 group-title="B2",178_Eurosport 2
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a04b
+#EXTINF:-1 group-title="B2",179_Ring HD
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a06e
+#EXTINF:-1 group-title="B2",180_Nova Sport
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a04a
+#EXTINF:-1 group-title="B2",181_bTV HD
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a06u
+#EXTINF:-1 group-title="B2",182_bTV Action HD
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a06t
+#EXTINF:-1 group-title="B2",183_Nova HD
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a06v
+#EXTINF:-1 group-title="B2",184_Action+
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a070
+#EXTINF:-1 group-title="B2",203_Diema Sport HD
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a076
+#EXTINF:-1 group-title="B2",204_Diema Sport 2 HD
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a077
+#EXTINF:-1 group-title="B2",205_Boomerang
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a03o
+#EXTINF:-1 group-title="B2",206_Nick Toons
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a04s
+#EXTINF:-1 group-title="B2",207_Nickelodeon
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a056
+#EXTINF:-1 group-title="B2",208_Nick Jr
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a05k
+#EXTINF:-1 group-title="B2",209_Cartoon Network
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a05a
+#EXTINF:-1 group-title="B2",210_Disney Channel
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a059
+#EXTINF:-1 group-title="B2",211_Disney Junior
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a05m
+#EXTINF:-1 group-title="B2",212_Ekids
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a06d
+#EXTINF:-1 group-title="B2",213_Perviy Kanal
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a07d
+#EXTINF:-1 group-title="B2",214_Diema Sport 3 HD
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a07e
+#EXTINF:-1 group-title="B2",220_BBC Earth 
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a05o
+#EXTINF:-1 group-title="B2",221_ID Xtra
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a05g
+#EXTINF:-1 group-title="B2",222_Discovery Science
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a04z
+#EXTINF:-1 group-title="B2",223_Crime & Investigations
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a03p
+#EXTINF:-1 group-title="B2",224_DaVinci Learning
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a03q
+#EXTINF:-1 group-title="B2",225_Epic Drama
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a055
+#EXTINF:-1 group-title="B2",226_Skat TV
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a04e
+#EXTINF:-1 group-title="ADULT",227_Hustler TV
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a078
+#EXTINF:-1 group-title="B2",228_DM Sat
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a06x
+#EXTINF:-1 group-title="B2",229_CNN
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a07c
+#EXTINF:-1 group-title="B2",230_BBC World News
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a07a
+#EXTINF:-1 group-title="B2",231_DW
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a07b
