@@ -428,3 +428,10 @@ rtmp://202.39.64.234:1935/live/535
 rtmp://202.39.64.234:1935/live/963 
 rtmp://202.39.64.234:1935/live/958
 
+#EXTINF:-1 group-title="ADULT",227_Hustler TV
+#EXTVLCOPT:network-caching=1000
+http://78.83.191.18:8000/play/a078
+
+#EXTINF:-1 group-title="ADULT",EROX
+#EXTVLCOPT:network-caching=1000
+http://94.229.250.73:8008/play/a002
